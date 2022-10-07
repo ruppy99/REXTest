@@ -1,1 +1,1 @@
-{"path":"Hello/HEL/HEL2","prefix":"HEL","id":2,"title":"MCGEE","description":"","tags":[],"satisfies":null,"satisfiedBy":null}
+{"path":"Hello/HEL/HEL2","prefix":"HEL","id":2,"title":"What is this item?","description":"","labels":null,"satisfies":["Hello/HEL/HEL5","Hello/HEL/HEL3","Hello/NGRP/NGRP1","Hello/SSH/SSH1"],"satisfiedBy":[]}
